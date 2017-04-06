@@ -1,0 +1,6 @@
+classification	abnormal
+summary_diagnosis	mild excess theta noted in wakefulness; no focal or epileptiform features were identified
+impression	This a mildly abnormal EEG due to: 1. Mild excess theta noted in wakefulness 
+clinical_correlation	No focal or epileptiform features were identified in this EEG or in the previous EEG.  If epilepsy is an important consideration a follow-up test which may be a sleep-deprived EEG or a more prolonged sleep EEG may be helpful in capturing epileptiform activity.
+clinical_history	A 47-year-old male with epilepsy and seizure related subdural hematoma in 2010, last seizure 2 months ago.  The patient amnestic for the seizure.  Now with right leg and hip weakness requiring a cane.
+medications	Dilantin

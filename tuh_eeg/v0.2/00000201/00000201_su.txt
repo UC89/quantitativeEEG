@@ -1,0 +1,6 @@
+classification	abnormal
+summary_diagnosis	muscle artifact; unreadable
+impression	This is a technically limited EEG due to diffuse muscle artifact throughout the recording.
+clinical_correlation	The EEG was not readable.  A repeat EEG is recommended
+clinical_history	This is a 75-year-old female with history of bilateral MCA stroke who presents with staring spells concerned for complex partial seizures.
+medications	Levetiracetam, gabapentin, metoprolol, atorvastatin

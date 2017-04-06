@@ -1,0 +1,6 @@
+classification	Normal
+summary_diagnosis	Normal asleep and awake; no seizures; no epileptiform discharges
+impression	Normal awake and asleep EEG.
+clinical_correlation	This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.
+clinical_history	This is a 32-year-old woman with complaints of twitching of the extremities for the past 2 days, sometimes it happens when she is laying down.
+medications	Labetalol, __________, and vitamins.

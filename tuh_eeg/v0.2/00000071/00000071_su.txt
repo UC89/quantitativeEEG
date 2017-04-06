@@ -1,0 +1,6 @@
+classification	normal
+summary_diagnosis	limited EEG; muscle artifact; no clear epileptiform activites; no seizures; generalized beta activity
+impression	This is a technically limited EEG due to diffuse muscle artifact and also presence of diffuse beta activity.  This study did not show any clear epileptiform activities or seizures.
+clinical_correlation	Generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hypothyroidism.  Clinical correlation is recommended.  There is no epileptiform activity or seizures during this recording.  It does not rule out the diagnosis of epilepsy or of intermittent seizures.  A repeat EEG capturing deeper stages of sleep due to technical limitations is highly recommended.  
+clinical_history	This is a 48-year-old woman with history of seizures, her boyfriend witnessed episodes of the seizure-like activity described as a shaking with loss of consciousness and foaming at mouth.  The last seizure was 2-3 weeks ago.
+medications	Ambien and Xanax.

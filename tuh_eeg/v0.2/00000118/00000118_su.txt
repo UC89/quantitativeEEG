@@ -1,0 +1,6 @@
+classification	abnormal
+summary_diagnosis	left temporal slowing; no epileptiform activities; no seizures
+impression	This is an abnormal EEG recording patient during wakefulness due to occasional left temporal slowing.  No epileptiform activities or seizures were recorded during this EEG
+clinical_correlation	Occasional left temporal slowing is suggestive of a structural versus functional abnormalities in the left hemisphere or left temporal region.  Clinical correlation is recommended.  There were no epileptiform activities or seizures were captured during this recording.  This does not exclude epilepsy or intermittent seizures.  Clinical correlation is recommended.
+clinical_history	This is a 46-year-old female with past medical history of stroke, lupus, hypertension, depression, who presents with chief complaint of headache and waking up with body sore and stiffness.
+medications	Hydroxychloroquine, Flexeril, metoprolol, Flonase, vitamins, omeprazole, Naprosyn, simvastatin, clopidogrel, Lasix.
